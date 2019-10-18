@@ -41,6 +41,8 @@ items:
         env:
           - name: "prefix"
             value: "b6a7"
+          - name: "GUID"
+            value: "b6a7"
           - name: "clusterDomain"
             value: "apps.na311.openshift.opentlc.com"
           - name: "devProject"
